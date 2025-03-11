@@ -33,7 +33,8 @@ student-management ┣ 📂 src ┃ ┣ 📂 components ┃ ┃ ┣ 📄 Student
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/ashwin-101/student-management-system
+   git clone https://github.com/ashwin-101/student-management-system.git
+   cd ashwin-101/student-management-system
 2. Install the dependencies:
   npm install
 
