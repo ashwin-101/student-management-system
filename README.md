@@ -33,8 +33,7 @@ student-management ┣ 📂 src ┃ ┣ 📂 components ┃ ┃ ┣ 📄 Student
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/bcse203e-vitc/reactjs-part-4-ashwin-101.git
-   cd reactjs-part-4-ashwin-101/Assignment-14/Output_Screenshots
+   git clone https://github.com/ashwin-101/student-management-system
 2. Install the dependencies:
   npm install
 
