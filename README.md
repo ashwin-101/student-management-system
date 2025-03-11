@@ -1,4 +1,4 @@
-# student-management-system
+
 # Student Management System
 
 ## Description
