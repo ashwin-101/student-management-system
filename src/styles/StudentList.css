@@ -1,0 +1,26 @@
+.student-list-container {
+    text-align: center;
+  }
+  
+  .student-item {
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .view-details-button,
+  .add-student-button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .view-details-button:hover,
+  .add-student-button:hover {
+    background-color: #0056b3;
+  }
